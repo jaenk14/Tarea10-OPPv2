@@ -1,0 +1,7 @@
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\bin\Debug\Trabajo_10_JaenCarlo.exe.config
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\bin\Debug\Trabajo_10_JaenCarlo.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\bin\Debug\Trabajo_10_JaenCarlo.pdb
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\obj\Debug\Trabajo_10_JaenCarlo.csproj.AssemblyReference.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\obj\Debug\Trabajo_10_JaenCarlo.csproj.CoreCompileInputs.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\obj\Debug\Trabajo_10_JaenCarlo.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 10\Trabajo_10_JaenCarlo\Trabajo_10_JaenCarlo\obj\Debug\Trabajo_10_JaenCarlo.pdb
